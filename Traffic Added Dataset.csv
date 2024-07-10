@@ -1,0 +1,1021 @@
+Origin,Destination,Distance,Weather,Traffic
+Agra,Delhi,240,Hot ,Heavy
+Agra,Delhi,240,Hot ,Medium
+Agra,Delhi,240,Hot ,Light
+Agra,Delhi,240,Sunny,Heavy
+Agra,Delhi,240,Sunny,Medium
+Agra,Delhi,240,Sunny,Light
+Agra,Delhi,240,Rainy,Heavy
+Agra,Delhi,240,Rainy,Medium
+Agra,Delhi,240,Rainy,Light
+Agra,Delhi,240,Winter,Heavy
+Agra,Delhi,240,Winter,Medium
+Agra,Delhi,240,Winter,Light
+Agra,Lucknow,334,Hot ,Heavy
+Agra,Lucknow,334,Hot ,Medium
+Agra,Lucknow,334,Hot ,Light
+Agra,Lucknow,334,Sunny,Heavy
+Agra,Lucknow,334,Sunny,Medium
+Agra,Lucknow,334,Sunny,Light
+Agra,Lucknow,334,Rainy,Heavy
+Agra,Lucknow,334,Rainy,Medium
+Agra,Lucknow,334,Rainy,Light
+Agra,Lucknow,334,Winter,Heavy
+Agra,Lucknow,334,Winter,Medium
+Agra,Lucknow,334,Winter,Light
+Agra,Kanpur,277,Hot ,Heavy
+Agra,Kanpur,277,Hot ,Medium
+Agra,Kanpur,277,Hot ,Light
+Agra,Kanpur,277,Sunny,Heavy
+Agra,Kanpur,277,Sunny,Medium
+Agra,Kanpur,277,Sunny,Light
+Agra,Kanpur,277,Rainy,Heavy
+Agra,Kanpur,277,Rainy,Medium
+Agra,Kanpur,277,Rainy,Light
+Agra,Kanpur,277,Winter,Heavy
+Agra,Kanpur,277,Winter,Medium
+Agra,Kanpur,277,Winter,Light
+Ahmedabad,Mumbai,526,Hot ,Heavy
+Ahmedabad,Mumbai,526,Hot ,Medium
+Ahmedabad,Mumbai,526,Hot ,Light
+Ahmedabad,Mumbai,526,Sunny,Heavy
+Ahmedabad,Mumbai,526,Sunny,Medium
+Ahmedabad,Mumbai,526,Sunny,Light
+Ahmedabad,Mumbai,526,Rainy,Heavy
+Ahmedabad,Mumbai,526,Rainy,Medium
+Ahmedabad,Mumbai,526,Rainy,Light
+Ahmedabad,Mumbai,526,Winter,Heavy
+Ahmedabad,Mumbai,526,Winter,Medium
+Ahmedabad,Mumbai,526,Winter,Light
+Ahmedabad,Pune,663,Hot ,Heavy
+Ahmedabad,Pune,663,Hot ,Medium
+Ahmedabad,Pune,663,Hot ,Light
+Ahmedabad,Pune,663,Sunny,Heavy
+Ahmedabad,Pune,663,Sunny,Medium
+Ahmedabad,Pune,663,Sunny,Light
+Ahmedabad,Pune,663,Rainy,Heavy
+Ahmedabad,Pune,663,Rainy,Medium
+Ahmedabad,Pune,663,Rainy,Light
+Ahmedabad,Pune,663,Winter,Heavy
+Ahmedabad,Pune,663,Winter,Medium
+Ahmedabad,Pune,663,Winter,Light
+Ahmedabad,Jaipur,660,Hot ,Heavy
+Ahmedabad,Jaipur,660,Hot ,Medium
+Ahmedabad,Jaipur,660,Hot ,Light
+Ahmedabad,Jaipur,660,Sunny,Heavy
+Ahmedabad,Jaipur,660,Sunny,Medium
+Ahmedabad,Jaipur,660,Sunny,Light
+Ahmedabad,Jaipur,660,Rainy,Heavy
+Ahmedabad,Jaipur,660,Rainy,Medium
+Ahmedabad,Jaipur,660,Rainy,Light
+Ahmedabad,Jaipur,660,Winter,Heavy
+Ahmedabad,Jaipur,660,Winter,Medium
+Ahmedabad,Jaipur,660,Winter,Light
+Ahmedabad,Udaipur,258,Hot ,Heavy
+Ahmedabad,Udaipur,258,Hot ,Medium
+Ahmedabad,Udaipur,258,Hot ,Light
+Ahmedabad,Udaipur,258,Sunny,Heavy
+Ahmedabad,Udaipur,258,Sunny,Medium
+Ahmedabad,Udaipur,258,Sunny,Light
+Ahmedabad,Udaipur,258,Rainy,Heavy
+Ahmedabad,Udaipur,258,Rainy,Medium
+Ahmedabad,Udaipur,258,Rainy,Light
+Ahmedabad,Udaipur,258,Winter,Heavy
+Ahmedabad,Udaipur,258,Winter,Medium
+Ahmedabad,Udaipur,258,Winter,Light
+Bengaluru,Pune,839,Hot ,Heavy
+Bengaluru,Pune,839,Hot ,Medium
+Bengaluru,Pune,839,Hot ,Light
+Bengaluru,Pune,839,Sunny,Heavy
+Bengaluru,Pune,839,Sunny,Medium
+Bengaluru,Pune,839,Sunny,Light
+Bengaluru,Pune,839,Rainy,Heavy
+Bengaluru,Pune,839,Rainy,Medium
+Bengaluru,Pune,839,Rainy,Light
+Bengaluru,Pune,839,Winter,Heavy
+Bengaluru,Pune,839,Winter,Medium
+Bengaluru,Pune,839,Winter,Light
+Bengaluru,Hyderabad,576,Hot ,Heavy
+Bengaluru,Hyderabad,576,Hot ,Medium
+Bengaluru,Hyderabad,576,Hot ,Light
+Bengaluru,Hyderabad,576,Sunny,Heavy
+Bengaluru,Hyderabad,576,Sunny,Medium
+Bengaluru,Hyderabad,576,Sunny,Light
+Bengaluru,Hyderabad,576,Rainy,Heavy
+Bengaluru,Hyderabad,576,Rainy,Medium
+Bengaluru,Hyderabad,576,Rainy,Light
+Bengaluru,Hyderabad,576,Winter,Heavy
+Bengaluru,Hyderabad,576,Winter,Medium
+Bengaluru,Hyderabad,576,Winter,Light
+Bengaluru,Chennai,346,Hot ,Heavy
+Bengaluru,Chennai,346,Hot ,Medium
+Bengaluru,Chennai,346,Hot ,Light
+Bengaluru,Chennai,346,Sunny,Heavy
+Bengaluru,Chennai,346,Sunny,Medium
+Bengaluru,Chennai,346,Sunny,Light
+Bengaluru,Chennai,346,Rainy,Heavy
+Bengaluru,Chennai,346,Rainy,Medium
+Bengaluru,Chennai,346,Rainy,Light
+Bengaluru,Chennai,346,Winter,Heavy
+Bengaluru,Chennai,346,Winter,Medium
+Bengaluru,Chennai,346,Winter,Light
+Bengaluru,Goa,562,Hot ,Heavy
+Bengaluru,Goa,562,Hot ,Medium
+Bengaluru,Goa,562,Hot ,Light
+Bengaluru,Goa,562,Sunny,Heavy
+Bengaluru,Goa,562,Sunny,Medium
+Bengaluru,Goa,562,Sunny,Light
+Bengaluru,Goa,562,Rainy,Heavy
+Bengaluru,Goa,562,Rainy,Medium
+Bengaluru,Goa,562,Rainy,Light
+Bengaluru,Goa,562,Winter,Heavy
+Bengaluru,Goa,562,Winter,Medium
+Bengaluru,Goa,562,Winter,Light
+Bhubaneswar,Kolkata,442,Hot ,Heavy
+Bhubaneswar,Kolkata,442,Hot ,Medium
+Bhubaneswar,Kolkata,442,Hot ,Light
+Bhubaneswar,Kolkata,442,Sunny,Heavy
+Bhubaneswar,Kolkata,442,Sunny,Medium
+Bhubaneswar,Kolkata,442,Sunny,Light
+Bhubaneswar,Kolkata,442,Rainy,Heavy
+Bhubaneswar,Kolkata,442,Rainy,Medium
+Bhubaneswar,Kolkata,442,Rainy,Light
+Bhubaneswar,Kolkata,442,Winter,Heavy
+Bhubaneswar,Kolkata,442,Winter,Medium
+Bhubaneswar,Kolkata,442,Winter,Light
+Bhubaneswar,Vishakhapatnam,444,Hot ,Heavy
+Bhubaneswar,Vishakhapatnam,444,Hot ,Medium
+Bhubaneswar,Vishakhapatnam,444,Hot ,Light
+Bhubaneswar,Vishakhapatnam,444,Sunny,Heavy
+Bhubaneswar,Vishakhapatnam,444,Sunny,Medium
+Bhubaneswar,Vishakhapatnam,444,Sunny,Light
+Bhubaneswar,Vishakhapatnam,444,Rainy,Heavy
+Bhubaneswar,Vishakhapatnam,444,Rainy,Medium
+Bhubaneswar,Vishakhapatnam,444,Rainy,Light
+Bhubaneswar,Vishakhapatnam,444,Winter,Heavy
+Bhubaneswar,Vishakhapatnam,444,Winter,Medium
+Bhubaneswar,Vishakhapatnam,444,Winter,Light
+Bhubaneswar,Patna,831,Hot ,Heavy
+Bhubaneswar,Patna,831,Hot ,Medium
+Bhubaneswar,Patna,831,Hot ,Light
+Bhubaneswar,Patna,831,Sunny,Heavy
+Bhubaneswar,Patna,831,Sunny,Medium
+Bhubaneswar,Patna,831,Sunny,Light
+Bhubaneswar,Patna,831,Rainy,Heavy
+Bhubaneswar,Patna,831,Rainy,Medium
+Bhubaneswar,Patna,831,Rainy,Light
+Bhubaneswar,Patna,831,Winter,Heavy
+Bhubaneswar,Patna,831,Winter,Medium
+Bhubaneswar,Patna,831,Winter,Light
+Chennai,Hyderabad,626,Hot ,Heavy
+Chennai,Hyderabad,626,Hot ,Medium
+Chennai,Hyderabad,626,Hot ,Light
+Chennai,Hyderabad,626,Sunny,Heavy
+Chennai,Hyderabad,626,Sunny,Medium
+Chennai,Hyderabad,626,Sunny,Light
+Chennai,Hyderabad,626,Rainy,Heavy
+Chennai,Hyderabad,626,Rainy,Medium
+Chennai,Hyderabad,626,Rainy,Light
+Chennai,Hyderabad,626,Winter,Heavy
+Chennai,Hyderabad,626,Winter,Medium
+Chennai,Hyderabad,626,Winter,Light
+Chennai,Bengaluru,345,Hot ,Heavy
+Chennai,Bengaluru,345,Hot ,Medium
+Chennai,Bengaluru,345,Hot ,Light
+Chennai,Bengaluru,345,Sunny,Heavy
+Chennai,Bengaluru,345,Sunny,Medium
+Chennai,Bengaluru,345,Sunny,Light
+Chennai,Bengaluru,345,Rainy,Heavy
+Chennai,Bengaluru,345,Rainy,Medium
+Chennai,Bengaluru,345,Rainy,Light
+Chennai,Bengaluru,345,Winter,Heavy
+Chennai,Bengaluru,345,Winter,Medium
+Chennai,Bengaluru,345,Winter,Light
+Chennai,Kochi,690,Hot ,Heavy
+Chennai,Kochi,690,Hot ,Medium
+Chennai,Kochi,690,Hot ,Light
+Chennai,Kochi,690,Sunny,Heavy
+Chennai,Kochi,690,Sunny,Medium
+Chennai,Kochi,690,Sunny,Light
+Chennai,Kochi,690,Rainy,Heavy
+Chennai,Kochi,690,Rainy,Medium
+Chennai,Kochi,690,Rainy,Light
+Chennai,Kochi,690,Winter,Heavy
+Chennai,Kochi,690,Winter,Medium
+Chennai,Kochi,690,Winter,Light
+Chennai,Mumbai,1335,Hot ,Heavy
+Chennai,Mumbai,1335,Hot ,Medium
+Chennai,Mumbai,1335,Hot ,Light
+Chennai,Mumbai,1335,Sunny,Heavy
+Chennai,Mumbai,1335,Sunny,Medium
+Chennai,Mumbai,1335,Sunny,Light
+Chennai,Mumbai,1335,Rainy,Heavy
+Chennai,Mumbai,1335,Rainy,Medium
+Chennai,Mumbai,1335,Rainy,Light
+Chennai,Mumbai,1335,Winter,Heavy
+Chennai,Mumbai,1335,Winter,Medium
+Chennai,Mumbai,1335,Winter,Light
+Chennai,Kolkata,1666,Hot ,Heavy
+Chennai,Kolkata,1666,Hot ,Medium
+Chennai,Kolkata,1666,Hot ,Light
+Chennai,Kolkata,1666,Sunny,Heavy
+Chennai,Kolkata,1666,Sunny,Medium
+Chennai,Kolkata,1666,Sunny,Light
+Chennai,Kolkata,1666,Rainy,Heavy
+Chennai,Kolkata,1666,Rainy,Medium
+Chennai,Kolkata,1666,Rainy,Light
+Chennai,Kolkata,1666,Winter,Heavy
+Chennai,Kolkata,1666,Winter,Medium
+Chennai,Kolkata,1666,Winter,Light
+Delhi,Jaipur,307,Hot ,Heavy
+Delhi,Jaipur,307,Hot ,Medium
+Delhi,Jaipur,307,Hot ,Light
+Delhi,Jaipur,307,Sunny,Heavy
+Delhi,Jaipur,307,Sunny,Medium
+Delhi,Jaipur,307,Sunny,Light
+Delhi,Jaipur,307,Rainy,Heavy
+Delhi,Jaipur,307,Rainy,Medium
+Delhi,Jaipur,307,Rainy,Light
+Delhi,Jaipur,307,Winter,Heavy
+Delhi,Jaipur,307,Winter,Medium
+Delhi,Jaipur,307,Winter,Light
+Delhi,Agra,243,Hot ,Heavy
+Delhi,Agra,243,Hot ,Medium
+Delhi,Agra,243,Hot ,Light
+Delhi,Agra,243,Sunny,Heavy
+Delhi,Agra,243,Sunny,Medium
+Delhi,Agra,243,Sunny,Light
+Delhi,Agra,243,Rainy,Heavy
+Delhi,Agra,243,Rainy,Medium
+Delhi,Agra,243,Rainy,Light
+Delhi,Agra,243,Winter,Heavy
+Delhi,Agra,243,Winter,Medium
+Delhi,Agra,243,Winter,Light
+Delhi,Lucknow,548,Hot ,Heavy
+Delhi,Lucknow,548,Hot ,Medium
+Delhi,Lucknow,548,Hot ,Light
+Delhi,Lucknow,548,Sunny,Heavy
+Delhi,Lucknow,548,Sunny,Medium
+Delhi,Lucknow,548,Sunny,Light
+Delhi,Lucknow,548,Rainy,Heavy
+Delhi,Lucknow,548,Rainy,Medium
+Delhi,Lucknow,548,Rainy,Light
+Delhi,Lucknow,548,Winter,Heavy
+Delhi,Lucknow,548,Winter,Medium
+Delhi,Lucknow,548,Winter,Light
+Delhi,Chennai,2208,Hot ,Heavy
+Delhi,Chennai,2208,Hot ,Medium
+Delhi,Chennai,2208,Hot ,Light
+Delhi,Chennai,2208,Sunny,Heavy
+Delhi,Chennai,2208,Sunny,Medium
+Delhi,Chennai,2208,Sunny,Light
+Delhi,Chennai,2208,Rainy,Heavy
+Delhi,Chennai,2208,Rainy,Medium
+Delhi,Chennai,2208,Rainy,Light
+Delhi,Chennai,2208,Winter,Heavy
+Delhi,Chennai,2208,Winter,Medium
+Delhi,Chennai,2208,Winter,Light
+Delhi,Bengaluru,2174,Hot ,Heavy
+Delhi,Bengaluru,2174,Hot ,Medium
+Delhi,Bengaluru,2174,Hot ,Light
+Delhi,Bengaluru,2174,Sunny,Heavy
+Delhi,Bengaluru,2174,Sunny,Medium
+Delhi,Bengaluru,2174,Sunny,Light
+Delhi,Bengaluru,2174,Rainy,Heavy
+Delhi,Bengaluru,2174,Rainy,Medium
+Delhi,Bengaluru,2174,Rainy,Light
+Delhi,Bengaluru,2174,Winter,Heavy
+Delhi,Bengaluru,2174,Winter,Medium
+Delhi,Bengaluru,2174,Winter,Light
+Delhi,Mumbai,1452,Hot ,Heavy
+Delhi,Mumbai,1452,Hot ,Medium
+Delhi,Mumbai,1452,Hot ,Light
+Delhi,Mumbai,1452,Sunny,Heavy
+Delhi,Mumbai,1452,Sunny,Medium
+Delhi,Mumbai,1452,Sunny,Light
+Delhi,Mumbai,1452,Rainy,Heavy
+Delhi,Mumbai,1452,Rainy,Medium
+Delhi,Mumbai,1452,Rainy,Light
+Delhi,Mumbai,1452,Winter,Heavy
+Delhi,Mumbai,1452,Winter,Medium
+Delhi,Mumbai,1452,Winter,Light
+Delhi,Hyderabad,1582,Hot ,Heavy
+Delhi,Hyderabad,1582,Hot ,Medium
+Delhi,Hyderabad,1582,Hot ,Light
+Delhi,Hyderabad,1582,Sunny,Heavy
+Delhi,Hyderabad,1582,Sunny,Medium
+Delhi,Hyderabad,1582,Sunny,Light
+Delhi,Hyderabad,1582,Rainy,Heavy
+Delhi,Hyderabad,1582,Rainy,Medium
+Delhi,Hyderabad,1582,Rainy,Light
+Delhi,Hyderabad,1582,Winter,Heavy
+Delhi,Hyderabad,1582,Winter,Medium
+Delhi,Hyderabad,1582,Winter,Light
+Goa,Hyderabad,674,Hot ,Heavy
+Goa,Hyderabad,674,Hot ,Medium
+Goa,Hyderabad,674,Hot ,Light
+Goa,Hyderabad,674,Sunny,Heavy
+Goa,Hyderabad,674,Sunny,Medium
+Goa,Hyderabad,674,Sunny,Light
+Goa,Hyderabad,674,Rainy,Heavy
+Goa,Hyderabad,674,Rainy,Medium
+Goa,Hyderabad,674,Rainy,Light
+Goa,Hyderabad,674,Winter,Heavy
+Goa,Hyderabad,674,Winter,Medium
+Goa,Hyderabad,674,Winter,Light
+Goa,Kochi,755,Hot ,Heavy
+Goa,Kochi,755,Hot ,Medium
+Goa,Kochi,755,Hot ,Light
+Goa,Kochi,755,Sunny,Heavy
+Goa,Kochi,755,Sunny,Medium
+Goa,Kochi,755,Sunny,Light
+Goa,Kochi,755,Rainy,Heavy
+Goa,Kochi,755,Rainy,Medium
+Goa,Kochi,755,Rainy,Light
+Goa,Kochi,755,Winter,Heavy
+Goa,Kochi,755,Winter,Medium
+Goa,Kochi,755,Winter,Light
+Goa,Mumbai,585,Hot ,Heavy
+Goa,Mumbai,585,Hot ,Medium
+Goa,Mumbai,585,Hot ,Light
+Goa,Mumbai,585,Sunny,Heavy
+Goa,Mumbai,585,Sunny,Medium
+Goa,Mumbai,585,Sunny,Light
+Goa,Mumbai,585,Rainy,Heavy
+Goa,Mumbai,585,Rainy,Medium
+Goa,Mumbai,585,Rainy,Light
+Goa,Mumbai,585,Winter,Heavy
+Goa,Mumbai,585,Winter,Medium
+Goa,Mumbai,585,Winter,Light
+Goa,Pune,442,Hot ,Heavy
+Goa,Pune,442,Hot ,Medium
+Goa,Pune,442,Hot ,Light
+Goa,Pune,442,Sunny,Heavy
+Goa,Pune,442,Sunny,Medium
+Goa,Pune,442,Sunny,Light
+Goa,Pune,442,Rainy,Heavy
+Goa,Pune,442,Rainy,Medium
+Goa,Pune,442,Rainy,Light
+Goa,Pune,442,Winter,Heavy
+Goa,Pune,442,Winter,Medium
+Goa,Pune,442,Winter,Light
+Goa,Thiruvananthapuram,1305,Hot ,Heavy
+Goa,Thiruvananthapuram,1305,Hot ,Medium
+Goa,Thiruvananthapuram,1305,Hot ,Light
+Goa,Thiruvananthapuram,1305,Sunny,Heavy
+Goa,Thiruvananthapuram,1305,Sunny,Medium
+Goa,Thiruvananthapuram,1305,Sunny,Light
+Goa,Thiruvananthapuram,1305,Rainy,Heavy
+Goa,Thiruvananthapuram,1305,Rainy,Medium
+Goa,Thiruvananthapuram,1305,Rainy,Light
+Goa,Thiruvananthapuram,1305,Winter,Heavy
+Goa,Thiruvananthapuram,1305,Winter,Medium
+Goa,Thiruvananthapuram,1305,Winter,Light
+Hyderabad,Pune,562,Hot ,Heavy
+Hyderabad,Pune,562,Hot ,Medium
+Hyderabad,Pune,562,Hot ,Light
+Hyderabad,Pune,562,Sunny,Heavy
+Hyderabad,Pune,562,Sunny,Medium
+Hyderabad,Pune,562,Sunny,Light
+Hyderabad,Pune,562,Rainy,Heavy
+Hyderabad,Pune,562,Rainy,Medium
+Hyderabad,Pune,562,Rainy,Light
+Hyderabad,Pune,562,Winter,Heavy
+Hyderabad,Pune,562,Winter,Medium
+Hyderabad,Pune,562,Winter,Light
+Hyderabad,Bengaluru,576,Hot ,Heavy
+Hyderabad,Bengaluru,576,Hot ,Medium
+Hyderabad,Bengaluru,576,Hot ,Light
+Hyderabad,Bengaluru,576,Sunny,Heavy
+Hyderabad,Bengaluru,576,Sunny,Medium
+Hyderabad,Bengaluru,576,Sunny,Light
+Hyderabad,Bengaluru,576,Rainy,Heavy
+Hyderabad,Bengaluru,576,Rainy,Medium
+Hyderabad,Bengaluru,576,Rainy,Light
+Hyderabad,Bengaluru,576,Winter,Heavy
+Hyderabad,Bengaluru,576,Winter,Medium
+Hyderabad,Bengaluru,576,Winter,Light
+Hyderabad,Chennai,627,Hot ,Heavy
+Hyderabad,Chennai,627,Hot ,Medium
+Hyderabad,Chennai,627,Hot ,Light
+Hyderabad,Chennai,627,Sunny,Heavy
+Hyderabad,Chennai,627,Sunny,Medium
+Hyderabad,Chennai,627,Sunny,Light
+Hyderabad,Chennai,627,Rainy,Heavy
+Hyderabad,Chennai,627,Rainy,Medium
+Hyderabad,Chennai,627,Rainy,Light
+Hyderabad,Chennai,627,Winter,Heavy
+Hyderabad,Chennai,627,Winter,Medium
+Hyderabad,Chennai,627,Winter,Light
+Hyderabad,Goa,674,Hot ,Heavy
+Hyderabad,Goa,674,Hot ,Medium
+Hyderabad,Goa,674,Hot ,Light
+Hyderabad,Goa,674,Sunny,Heavy
+Hyderabad,Goa,674,Sunny,Medium
+Hyderabad,Goa,674,Sunny,Light
+Hyderabad,Goa,674,Rainy,Heavy
+Hyderabad,Goa,674,Rainy,Medium
+Hyderabad,Goa,674,Rainy,Light
+Hyderabad,Goa,674,Winter,Heavy
+Hyderabad,Goa,674,Winter,Medium
+Hyderabad,Goa,674,Winter,Light
+Hyderabad,Mumbai,708,Hot ,Heavy
+Hyderabad,Mumbai,708,Hot ,Medium
+Hyderabad,Mumbai,708,Hot ,Light
+Hyderabad,Mumbai,708,Sunny,Heavy
+Hyderabad,Mumbai,708,Sunny,Medium
+Hyderabad,Mumbai,708,Sunny,Light
+Hyderabad,Mumbai,708,Rainy,Heavy
+Hyderabad,Mumbai,708,Rainy,Medium
+Hyderabad,Mumbai,708,Rainy,Light
+Hyderabad,Mumbai,708,Winter,Heavy
+Hyderabad,Mumbai,708,Winter,Medium
+Hyderabad,Mumbai,708,Winter,Light
+Hyderabad,Delhi,1583,Hot ,Heavy
+Hyderabad,Delhi,1583,Hot ,Medium
+Hyderabad,Delhi,1583,Hot ,Light
+Hyderabad,Delhi,1583,Sunny,Heavy
+Hyderabad,Delhi,1583,Sunny,Medium
+Hyderabad,Delhi,1583,Sunny,Light
+Hyderabad,Delhi,1583,Rainy,Heavy
+Hyderabad,Delhi,1583,Rainy,Medium
+Hyderabad,Delhi,1583,Rainy,Light
+Hyderabad,Delhi,1583,Winter,Heavy
+Hyderabad,Delhi,1583,Winter,Medium
+Hyderabad,Delhi,1583,Winter,Light
+Hyderabad,Kolkata,1489,Hot ,Heavy
+Hyderabad,Kolkata,1489,Hot ,Medium
+Hyderabad,Kolkata,1489,Hot ,Light
+Hyderabad,Kolkata,1489,Sunny,Heavy
+Hyderabad,Kolkata,1489,Sunny,Medium
+Hyderabad,Kolkata,1489,Sunny,Light
+Hyderabad,Kolkata,1489,Rainy,Heavy
+Hyderabad,Kolkata,1489,Rainy,Medium
+Hyderabad,Kolkata,1489,Rainy,Light
+Hyderabad,Kolkata,1489,Winter,Heavy
+Hyderabad,Kolkata,1489,Winter,Medium
+Hyderabad,Kolkata,1489,Winter,Light
+Jaipur,Ahmedabad,659,Hot ,Heavy
+Jaipur,Ahmedabad,659,Hot ,Medium
+Jaipur,Ahmedabad,659,Hot ,Light
+Jaipur,Ahmedabad,659,Sunny,Heavy
+Jaipur,Ahmedabad,659,Sunny,Medium
+Jaipur,Ahmedabad,659,Sunny,Light
+Jaipur,Ahmedabad,659,Rainy,Heavy
+Jaipur,Ahmedabad,659,Rainy,Medium
+Jaipur,Ahmedabad,659,Rainy,Light
+Jaipur,Ahmedabad,659,Winter,Heavy
+Jaipur,Ahmedabad,659,Winter,Medium
+Jaipur,Ahmedabad,659,Winter,Light
+Jaipur,Udaipur,397,Hot ,Heavy
+Jaipur,Udaipur,397,Hot ,Medium
+Jaipur,Udaipur,397,Hot ,Light
+Jaipur,Udaipur,397,Sunny,Heavy
+Jaipur,Udaipur,397,Sunny,Medium
+Jaipur,Udaipur,397,Sunny,Light
+Jaipur,Udaipur,397,Rainy,Heavy
+Jaipur,Udaipur,397,Rainy,Medium
+Jaipur,Udaipur,397,Rainy,Light
+Jaipur,Udaipur,397,Winter,Heavy
+Jaipur,Udaipur,397,Winter,Medium
+Jaipur,Udaipur,397,Winter,Light
+Jaipur,Delhi,308,Hot ,Heavy
+Jaipur,Delhi,308,Hot ,Medium
+Jaipur,Delhi,308,Hot ,Light
+Jaipur,Delhi,308,Sunny,Heavy
+Jaipur,Delhi,308,Sunny,Medium
+Jaipur,Delhi,308,Sunny,Light
+Jaipur,Delhi,308,Rainy,Heavy
+Jaipur,Delhi,308,Rainy,Medium
+Jaipur,Delhi,308,Rainy,Light
+Jaipur,Delhi,308,Winter,Heavy
+Jaipur,Delhi,308,Winter,Medium
+Jaipur,Delhi,308,Winter,Light
+Jaipur,Mumbai,1170,Hot ,Heavy
+Jaipur,Mumbai,1170,Hot ,Medium
+Jaipur,Mumbai,1170,Hot ,Light
+Jaipur,Mumbai,1170,Sunny,Heavy
+Jaipur,Mumbai,1170,Sunny,Medium
+Jaipur,Mumbai,1170,Sunny,Light
+Jaipur,Mumbai,1170,Rainy,Heavy
+Jaipur,Mumbai,1170,Rainy,Medium
+Jaipur,Mumbai,1170,Rainy,Light
+Jaipur,Mumbai,1170,Winter,Heavy
+Jaipur,Mumbai,1170,Winter,Medium
+Jaipur,Mumbai,1170,Winter,Light
+Jaipur,Pune,1191,Hot ,Heavy
+Jaipur,Pune,1191,Hot ,Medium
+Jaipur,Pune,1191,Hot ,Light
+Jaipur,Pune,1191,Sunny,Heavy
+Jaipur,Pune,1191,Sunny,Medium
+Jaipur,Pune,1191,Sunny,Light
+Jaipur,Pune,1191,Rainy,Heavy
+Jaipur,Pune,1191,Rainy,Medium
+Jaipur,Pune,1191,Rainy,Light
+Jaipur,Pune,1191,Winter,Heavy
+Jaipur,Pune,1191,Winter,Medium
+Jaipur,Pune,1191,Winter,Light
+Kanpur,Agra,301,Hot ,Heavy
+Kanpur,Agra,301,Hot ,Medium
+Kanpur,Agra,301,Hot ,Light
+Kanpur,Agra,301,Sunny,Heavy
+Kanpur,Agra,301,Sunny,Medium
+Kanpur,Agra,301,Sunny,Light
+Kanpur,Agra,301,Rainy,Heavy
+Kanpur,Agra,301,Rainy,Medium
+Kanpur,Agra,301,Rainy,Light
+Kanpur,Agra,301,Winter,Heavy
+Kanpur,Agra,301,Winter,Medium
+Kanpur,Agra,301,Winter,Light
+Kanpur,Lucknow,115,Hot ,Heavy
+Kanpur,Lucknow,115,Hot ,Medium
+Kanpur,Lucknow,115,Hot ,Light
+Kanpur,Lucknow,115,Sunny,Heavy
+Kanpur,Lucknow,115,Sunny,Medium
+Kanpur,Lucknow,115,Sunny,Light
+Kanpur,Lucknow,115,Rainy,Heavy
+Kanpur,Lucknow,115,Rainy,Medium
+Kanpur,Lucknow,115,Rainy,Light
+Kanpur,Lucknow,115,Winter,Heavy
+Kanpur,Lucknow,115,Winter,Medium
+Kanpur,Lucknow,115,Winter,Light
+Kanpur,Varanasi,328,Hot ,Heavy
+Kanpur,Varanasi,328,Hot ,Medium
+Kanpur,Varanasi,328,Hot ,Light
+Kanpur,Varanasi,328,Sunny,Heavy
+Kanpur,Varanasi,328,Sunny,Medium
+Kanpur,Varanasi,328,Sunny,Light
+Kanpur,Varanasi,328,Rainy,Heavy
+Kanpur,Varanasi,328,Rainy,Medium
+Kanpur,Varanasi,328,Rainy,Light
+Kanpur,Varanasi,328,Winter,Heavy
+Kanpur,Varanasi,328,Winter,Medium
+Kanpur,Varanasi,328,Winter,Light
+Kochi,Chennai,690,Hot ,Heavy
+Kochi,Chennai,690,Hot ,Medium
+Kochi,Chennai,690,Hot ,Light
+Kochi,Chennai,690,Sunny,Heavy
+Kochi,Chennai,690,Sunny,Medium
+Kochi,Chennai,690,Sunny,Light
+Kochi,Chennai,690,Rainy,Heavy
+Kochi,Chennai,690,Rainy,Medium
+Kochi,Chennai,690,Rainy,Light
+Kochi,Chennai,690,Winter,Heavy
+Kochi,Chennai,690,Winter,Medium
+Kochi,Chennai,690,Winter,Light
+Kochi,Bengaluru,547,Hot ,Heavy
+Kochi,Bengaluru,547,Hot ,Medium
+Kochi,Bengaluru,547,Hot ,Light
+Kochi,Bengaluru,547,Sunny,Heavy
+Kochi,Bengaluru,547,Sunny,Medium
+Kochi,Bengaluru,547,Sunny,Light
+Kochi,Bengaluru,547,Rainy,Heavy
+Kochi,Bengaluru,547,Rainy,Medium
+Kochi,Bengaluru,547,Rainy,Light
+Kochi,Bengaluru,547,Winter,Heavy
+Kochi,Bengaluru,547,Winter,Medium
+Kochi,Bengaluru,547,Winter,Light
+Kochi,Goa,754,Hot ,Heavy
+Kochi,Goa,754,Hot ,Medium
+Kochi,Goa,754,Hot ,Light
+Kochi,Goa,754,Sunny,Heavy
+Kochi,Goa,754,Sunny,Medium
+Kochi,Goa,754,Sunny,Light
+Kochi,Goa,754,Rainy,Heavy
+Kochi,Goa,754,Rainy,Medium
+Kochi,Goa,754,Rainy,Light
+Kochi,Goa,754,Winter,Heavy
+Kochi,Goa,754,Winter,Medium
+Kochi,Goa,754,Winter,Light
+Kochi,Thiruvananthapuram,206,Hot ,Heavy
+Kochi,Thiruvananthapuram,206,Hot ,Medium
+Kochi,Thiruvananthapuram,206,Hot ,Light
+Kochi,Thiruvananthapuram,206,Sunny,Heavy
+Kochi,Thiruvananthapuram,206,Sunny,Medium
+Kochi,Thiruvananthapuram,206,Sunny,Light
+Kochi,Thiruvananthapuram,206,Rainy,Heavy
+Kochi,Thiruvananthapuram,206,Rainy,Medium
+Kochi,Thiruvananthapuram,206,Rainy,Light
+Kochi,Thiruvananthapuram,206,Winter,Heavy
+Kochi,Thiruvananthapuram,206,Winter,Medium
+Kochi,Thiruvananthapuram,206,Winter,Light
+Kochi,Bengaluru,547,Hot ,Heavy
+Kochi,Bengaluru,547,Hot ,Medium
+Kochi,Bengaluru,547,Hot ,Light
+Kochi,Bengaluru,547,Sunny,Heavy
+Kochi,Bengaluru,547,Sunny,Medium
+Kochi,Bengaluru,547,Sunny,Light
+Kochi,Bengaluru,547,Rainy,Heavy
+Kochi,Bengaluru,547,Rainy,Medium
+Kochi,Bengaluru,547,Rainy,Light
+Kochi,Bengaluru,547,Winter,Heavy
+Kochi,Bengaluru,547,Winter,Medium
+Kochi,Bengaluru,547,Winter,Light
+Kolkata,Varanasi,680,Hot ,Heavy
+Kolkata,Varanasi,680,Hot ,Medium
+Kolkata,Varanasi,680,Hot ,Light
+Kolkata,Varanasi,680,Sunny,Heavy
+Kolkata,Varanasi,680,Sunny,Medium
+Kolkata,Varanasi,680,Sunny,Light
+Kolkata,Varanasi,680,Rainy,Heavy
+Kolkata,Varanasi,680,Rainy,Medium
+Kolkata,Varanasi,680,Rainy,Light
+Kolkata,Varanasi,680,Winter,Heavy
+Kolkata,Varanasi,680,Winter,Medium
+Kolkata,Varanasi,680,Winter,Light
+Kolkata,Patna,554,Hot ,Heavy
+Kolkata,Patna,554,Hot ,Medium
+Kolkata,Patna,554,Hot ,Light
+Kolkata,Patna,554,Sunny,Heavy
+Kolkata,Patna,554,Sunny,Medium
+Kolkata,Patna,554,Sunny,Light
+Kolkata,Patna,554,Rainy,Heavy
+Kolkata,Patna,554,Rainy,Medium
+Kolkata,Patna,554,Rainy,Light
+Kolkata,Patna,554,Winter,Heavy
+Kolkata,Patna,554,Winter,Medium
+Kolkata,Patna,554,Winter,Light
+Kolkata,Bhubaneswar,442,Hot ,Heavy
+Kolkata,Bhubaneswar,442,Hot ,Medium
+Kolkata,Bhubaneswar,442,Hot ,Light
+Kolkata,Bhubaneswar,442,Sunny,Heavy
+Kolkata,Bhubaneswar,442,Sunny,Medium
+Kolkata,Bhubaneswar,442,Sunny,Light
+Kolkata,Bhubaneswar,442,Rainy,Heavy
+Kolkata,Bhubaneswar,442,Rainy,Medium
+Kolkata,Bhubaneswar,442,Rainy,Light
+Kolkata,Bhubaneswar,442,Winter,Heavy
+Kolkata,Bhubaneswar,442,Winter,Medium
+Kolkata,Bhubaneswar,442,Winter,Light
+Kolkata,Chennai,1668,Hot ,Heavy
+Kolkata,Chennai,1668,Hot ,Medium
+Kolkata,Chennai,1668,Hot ,Light
+Kolkata,Chennai,1668,Sunny,Heavy
+Kolkata,Chennai,1668,Sunny,Medium
+Kolkata,Chennai,1668,Sunny,Light
+Kolkata,Chennai,1668,Rainy,Heavy
+Kolkata,Chennai,1668,Rainy,Medium
+Kolkata,Chennai,1668,Rainy,Light
+Kolkata,Chennai,1668,Winter,Heavy
+Kolkata,Chennai,1668,Winter,Medium
+Kolkata,Chennai,1668,Winter,Light
+Kolkata,Delhi,1563,Hot ,Heavy
+Kolkata,Delhi,1563,Hot ,Medium
+Kolkata,Delhi,1563,Hot ,Light
+Kolkata,Delhi,1563,Sunny,Heavy
+Kolkata,Delhi,1563,Sunny,Medium
+Kolkata,Delhi,1563,Sunny,Light
+Kolkata,Delhi,1563,Rainy,Heavy
+Kolkata,Delhi,1563,Rainy,Medium
+Kolkata,Delhi,1563,Rainy,Light
+Kolkata,Delhi,1563,Winter,Heavy
+Kolkata,Delhi,1563,Winter,Medium
+Kolkata,Delhi,1563,Winter,Light
+Lucknow,Delhi,553,Hot ,Heavy
+Lucknow,Delhi,553,Hot ,Medium
+Lucknow,Delhi,553,Hot ,Light
+Lucknow,Delhi,553,Sunny,Heavy
+Lucknow,Delhi,553,Sunny,Medium
+Lucknow,Delhi,553,Sunny,Light
+Lucknow,Delhi,553,Rainy,Heavy
+Lucknow,Delhi,553,Rainy,Medium
+Lucknow,Delhi,553,Rainy,Light
+Lucknow,Delhi,553,Winter,Heavy
+Lucknow,Delhi,553,Winter,Medium
+Lucknow,Delhi,553,Winter,Light
+Lucknow,Agra,333,Hot ,Heavy
+Lucknow,Agra,333,Hot ,Medium
+Lucknow,Agra,333,Hot ,Light
+Lucknow,Agra,333,Sunny,Heavy
+Lucknow,Agra,333,Sunny,Medium
+Lucknow,Agra,333,Sunny,Light
+Lucknow,Agra,333,Rainy,Heavy
+Lucknow,Agra,333,Rainy,Medium
+Lucknow,Agra,333,Rainy,Light
+Lucknow,Agra,333,Winter,Heavy
+Lucknow,Agra,333,Winter,Medium
+Lucknow,Agra,333,Winter,Light
+Lucknow,Kanpur,89,Hot ,Heavy
+Lucknow,Kanpur,89,Hot ,Medium
+Lucknow,Kanpur,89,Hot ,Light
+Lucknow,Kanpur,89,Sunny,Heavy
+Lucknow,Kanpur,89,Sunny,Medium
+Lucknow,Kanpur,89,Sunny,Light
+Lucknow,Kanpur,89,Rainy,Heavy
+Lucknow,Kanpur,89,Rainy,Medium
+Lucknow,Kanpur,89,Rainy,Light
+Lucknow,Kanpur,89,Winter,Heavy
+Lucknow,Kanpur,89,Winter,Medium
+Lucknow,Kanpur,89,Winter,Light
+Mumbai,Pune,148,Hot ,Heavy
+Mumbai,Pune,148,Hot ,Medium
+Mumbai,Pune,148,Hot ,Light
+Mumbai,Pune,148,Sunny,Heavy
+Mumbai,Pune,148,Sunny,Medium
+Mumbai,Pune,148,Sunny,Light
+Mumbai,Pune,148,Rainy,Heavy
+Mumbai,Pune,148,Rainy,Medium
+Mumbai,Pune,148,Rainy,Light
+Mumbai,Pune,148,Winter,Heavy
+Mumbai,Pune,148,Winter,Medium
+Mumbai,Pune,148,Winter,Light
+Mumbai,Ahmedabad,526,Hot ,Heavy
+Mumbai,Ahmedabad,526,Hot ,Medium
+Mumbai,Ahmedabad,526,Hot ,Light
+Mumbai,Ahmedabad,526,Sunny,Heavy
+Mumbai,Ahmedabad,526,Sunny,Medium
+Mumbai,Ahmedabad,526,Sunny,Light
+Mumbai,Ahmedabad,526,Rainy,Heavy
+Mumbai,Ahmedabad,526,Rainy,Medium
+Mumbai,Ahmedabad,526,Rainy,Light
+Mumbai,Ahmedabad,526,Winter,Heavy
+Mumbai,Ahmedabad,526,Winter,Medium
+Mumbai,Ahmedabad,526,Winter,Light
+Mumbai,Delhi,1453,Hot ,Heavy
+Mumbai,Delhi,1453,Hot ,Medium
+Mumbai,Delhi,1453,Hot ,Light
+Mumbai,Delhi,1453,Sunny,Heavy
+Mumbai,Delhi,1453,Sunny,Medium
+Mumbai,Delhi,1453,Sunny,Light
+Mumbai,Delhi,1453,Rainy,Heavy
+Mumbai,Delhi,1453,Rainy,Medium
+Mumbai,Delhi,1453,Rainy,Light
+Mumbai,Delhi,1453,Winter,Heavy
+Mumbai,Delhi,1453,Winter,Medium
+Mumbai,Delhi,1453,Winter,Light
+Mumbai,Hyderabad,713,Hot ,Heavy
+Mumbai,Hyderabad,713,Hot ,Medium
+Mumbai,Hyderabad,713,Hot ,Light
+Mumbai,Hyderabad,713,Sunny,Heavy
+Mumbai,Hyderabad,713,Sunny,Medium
+Mumbai,Hyderabad,713,Sunny,Light
+Mumbai,Hyderabad,713,Rainy,Heavy
+Mumbai,Hyderabad,713,Rainy,Medium
+Mumbai,Hyderabad,713,Rainy,Light
+Mumbai,Hyderabad,713,Winter,Heavy
+Mumbai,Hyderabad,713,Winter,Medium
+Mumbai,Hyderabad,713,Winter,Light
+Mumbai,Bengaluru,984,Hot ,Heavy
+Mumbai,Bengaluru,984,Hot ,Medium
+Mumbai,Bengaluru,984,Hot ,Light
+Mumbai,Bengaluru,984,Sunny,Heavy
+Mumbai,Bengaluru,984,Sunny,Medium
+Mumbai,Bengaluru,984,Sunny,Light
+Mumbai,Bengaluru,984,Rainy,Heavy
+Mumbai,Bengaluru,984,Rainy,Medium
+Mumbai,Bengaluru,984,Rainy,Light
+Mumbai,Bengaluru,984,Winter,Heavy
+Mumbai,Bengaluru,984,Winter,Medium
+Mumbai,Bengaluru,984,Winter,Light
+Mumbai,Kolkata,1886,Hot ,Heavy
+Mumbai,Kolkata,1886,Hot ,Medium
+Mumbai,Kolkata,1886,Hot ,Light
+Mumbai,Kolkata,1886,Sunny,Heavy
+Mumbai,Kolkata,1886,Sunny,Medium
+Mumbai,Kolkata,1886,Sunny,Light
+Mumbai,Kolkata,1886,Rainy,Heavy
+Mumbai,Kolkata,1886,Rainy,Medium
+Mumbai,Kolkata,1886,Rainy,Light
+Mumbai,Kolkata,1886,Winter,Heavy
+Mumbai,Kolkata,1886,Winter,Medium
+Mumbai,Kolkata,1886,Winter,Light
+Mumbai,Chennai,1338,Hot ,Heavy
+Mumbai,Chennai,1338,Hot ,Medium
+Mumbai,Chennai,1338,Hot ,Light
+Mumbai,Chennai,1338,Sunny,Heavy
+Mumbai,Chennai,1338,Sunny,Medium
+Mumbai,Chennai,1338,Sunny,Light
+Mumbai,Chennai,1338,Rainy,Heavy
+Mumbai,Chennai,1338,Rainy,Medium
+Mumbai,Chennai,1338,Rainy,Light
+Mumbai,Chennai,1338,Winter,Heavy
+Mumbai,Chennai,1338,Winter,Medium
+Mumbai,Chennai,1338,Winter,Light
+Patna,Varanasi,256,Hot ,Heavy
+Patna,Varanasi,256,Hot ,Medium
+Patna,Varanasi,256,Hot ,Light
+Patna,Varanasi,256,Sunny,Heavy
+Patna,Varanasi,256,Sunny,Medium
+Patna,Varanasi,256,Sunny,Light
+Patna,Varanasi,256,Rainy,Heavy
+Patna,Varanasi,256,Rainy,Medium
+Patna,Varanasi,256,Rainy,Light
+Patna,Varanasi,256,Winter,Heavy
+Patna,Varanasi,256,Winter,Medium
+Patna,Varanasi,256,Winter,Light
+Patna,Kolkata,578,Hot ,Heavy
+Patna,Kolkata,578,Hot ,Medium
+Patna,Kolkata,578,Hot ,Light
+Patna,Kolkata,578,Sunny,Heavy
+Patna,Kolkata,578,Sunny,Medium
+Patna,Kolkata,578,Sunny,Light
+Patna,Kolkata,578,Rainy,Heavy
+Patna,Kolkata,578,Rainy,Medium
+Patna,Kolkata,578,Rainy,Light
+Patna,Kolkata,578,Winter,Heavy
+Patna,Kolkata,578,Winter,Medium
+Patna,Kolkata,578,Winter,Light
+Pune,Mumbai,150,Hot ,Heavy
+Pune,Mumbai,150,Hot ,Medium
+Pune,Mumbai,150,Hot ,Light
+Pune,Mumbai,150,Sunny,Heavy
+Pune,Mumbai,150,Sunny,Medium
+Pune,Mumbai,150,Sunny,Light
+Pune,Mumbai,150,Rainy,Heavy
+Pune,Mumbai,150,Rainy,Medium
+Pune,Mumbai,150,Rainy,Light
+Pune,Mumbai,150,Winter,Heavy
+Pune,Mumbai,150,Winter,Medium
+Pune,Mumbai,150,Winter,Light
+Pune,Ahmedabad,660,Hot ,Heavy
+Pune,Ahmedabad,660,Hot ,Medium
+Pune,Ahmedabad,660,Hot ,Light
+Pune,Ahmedabad,660,Sunny,Heavy
+Pune,Ahmedabad,660,Sunny,Medium
+Pune,Ahmedabad,660,Sunny,Light
+Pune,Ahmedabad,660,Rainy,Heavy
+Pune,Ahmedabad,660,Rainy,Medium
+Pune,Ahmedabad,660,Rainy,Light
+Pune,Ahmedabad,660,Winter,Heavy
+Pune,Ahmedabad,660,Winter,Medium
+Pune,Ahmedabad,660,Winter,Light
+Pune,Hyderabad,560,Hot ,Heavy
+Pune,Hyderabad,560,Hot ,Medium
+Pune,Hyderabad,560,Hot ,Light
+Pune,Hyderabad,560,Sunny,Heavy
+Pune,Hyderabad,560,Sunny,Medium
+Pune,Hyderabad,560,Sunny,Light
+Pune,Hyderabad,560,Rainy,Heavy
+Pune,Hyderabad,560,Rainy,Medium
+Pune,Hyderabad,560,Rainy,Light
+Pune,Hyderabad,560,Winter,Heavy
+Pune,Hyderabad,560,Winter,Medium
+Pune,Hyderabad,560,Winter,Light
+Pune,Bengaluru,842,Hot ,Heavy
+Pune,Bengaluru,842,Hot ,Medium
+Pune,Bengaluru,842,Hot ,Light
+Pune,Bengaluru,842,Sunny,Heavy
+Pune,Bengaluru,842,Sunny,Medium
+Pune,Bengaluru,842,Sunny,Light
+Pune,Bengaluru,842,Rainy,Heavy
+Pune,Bengaluru,842,Rainy,Medium
+Pune,Bengaluru,842,Rainy,Light
+Pune,Bengaluru,842,Winter,Heavy
+Pune,Bengaluru,842,Winter,Medium
+Pune,Bengaluru,842,Winter,Light
+Thiruvananthapuram,Kochi,206,Hot ,Heavy
+Thiruvananthapuram,Kochi,206,Hot ,Medium
+Thiruvananthapuram,Kochi,206,Hot ,Light
+Thiruvananthapuram,Kochi,206,Sunny,Heavy
+Thiruvananthapuram,Kochi,206,Sunny,Medium
+Thiruvananthapuram,Kochi,206,Sunny,Light
+Thiruvananthapuram,Kochi,206,Rainy,Heavy
+Thiruvananthapuram,Kochi,206,Rainy,Medium
+Thiruvananthapuram,Kochi,206,Rainy,Light
+Thiruvananthapuram,Kochi,206,Winter,Heavy
+Thiruvananthapuram,Kochi,206,Winter,Medium
+Thiruvananthapuram,Kochi,206,Winter,Light
+Thiruvananthapuram,Goa,1305,Hot ,Heavy
+Thiruvananthapuram,Goa,1305,Hot ,Medium
+Thiruvananthapuram,Goa,1305,Hot ,Light
+Thiruvananthapuram,Goa,1305,Sunny,Heavy
+Thiruvananthapuram,Goa,1305,Sunny,Medium
+Thiruvananthapuram,Goa,1305,Sunny,Light
+Thiruvananthapuram,Goa,1305,Rainy,Heavy
+Thiruvananthapuram,Goa,1305,Rainy,Medium
+Thiruvananthapuram,Goa,1305,Rainy,Light
+Thiruvananthapuram,Goa,1305,Winter,Heavy
+Thiruvananthapuram,Goa,1305,Winter,Medium
+Thiruvananthapuram,Goa,1305,Winter,Light
+Udaipur,Ahmedabad,257,Hot ,Heavy
+Udaipur,Ahmedabad,257,Hot ,Medium
+Udaipur,Ahmedabad,257,Hot ,Light
+Udaipur,Ahmedabad,257,Sunny,Heavy
+Udaipur,Ahmedabad,257,Sunny,Medium
+Udaipur,Ahmedabad,257,Sunny,Light
+Udaipur,Ahmedabad,257,Rainy,Heavy
+Udaipur,Ahmedabad,257,Rainy,Medium
+Udaipur,Ahmedabad,257,Rainy,Light
+Udaipur,Ahmedabad,257,Winter,Heavy
+Udaipur,Ahmedabad,257,Winter,Medium
+Udaipur,Ahmedabad,257,Winter,Light
+Udaipur,Jaipur,397,Hot ,Heavy
+Udaipur,Jaipur,397,Hot ,Medium
+Udaipur,Jaipur,397,Hot ,Light
+Udaipur,Jaipur,397,Sunny,Heavy
+Udaipur,Jaipur,397,Sunny,Medium
+Udaipur,Jaipur,397,Sunny,Light
+Udaipur,Jaipur,397,Rainy,Heavy
+Udaipur,Jaipur,397,Rainy,Medium
+Udaipur,Jaipur,397,Rainy,Light
+Udaipur,Jaipur,397,Winter,Heavy
+Udaipur,Jaipur,397,Winter,Medium
+Udaipur,Jaipur,397,Winter,Light
+Udaipur,Mumbai,767,Hot ,Heavy
+Udaipur,Mumbai,767,Hot ,Medium
+Udaipur,Mumbai,767,Hot ,Light
+Udaipur,Mumbai,767,Sunny,Heavy
+Udaipur,Mumbai,767,Sunny,Medium
+Udaipur,Mumbai,767,Sunny,Light
+Udaipur,Mumbai,767,Rainy,Heavy
+Udaipur,Mumbai,767,Rainy,Medium
+Udaipur,Mumbai,767,Rainy,Light
+Udaipur,Mumbai,767,Winter,Heavy
+Udaipur,Mumbai,767,Winter,Medium
+Udaipur,Mumbai,767,Winter,Light
+Udaipur,Delhi,688,Hot ,Heavy
+Udaipur,Delhi,688,Hot ,Medium
+Udaipur,Delhi,688,Hot ,Light
+Udaipur,Delhi,688,Sunny,Heavy
+Udaipur,Delhi,688,Sunny,Medium
+Udaipur,Delhi,688,Sunny,Light
+Udaipur,Delhi,688,Rainy,Heavy
+Udaipur,Delhi,688,Rainy,Medium
+Udaipur,Delhi,688,Rainy,Light
+Udaipur,Delhi,688,Winter,Heavy
+Udaipur,Delhi,688,Winter,Medium
+Udaipur,Delhi,688,Winter,Light
+Varanasi,Kanpur,328,Hot ,Heavy
+Varanasi,Kanpur,328,Hot ,Medium
+Varanasi,Kanpur,328,Hot ,Light
+Varanasi,Kanpur,328,Sunny,Heavy
+Varanasi,Kanpur,328,Sunny,Medium
+Varanasi,Kanpur,328,Sunny,Light
+Varanasi,Kanpur,328,Rainy,Heavy
+Varanasi,Kanpur,328,Rainy,Medium
+Varanasi,Kanpur,328,Rainy,Light
+Varanasi,Kanpur,328,Winter,Heavy
+Varanasi,Kanpur,328,Winter,Medium
+Varanasi,Kanpur,328,Winter,Light
+Varanasi,Patna,259,Hot ,Heavy
+Varanasi,Patna,259,Hot ,Medium
+Varanasi,Patna,259,Hot ,Light
+Varanasi,Patna,259,Sunny,Heavy
+Varanasi,Patna,259,Sunny,Medium
+Varanasi,Patna,259,Sunny,Light
+Varanasi,Patna,259,Rainy,Heavy
+Varanasi,Patna,259,Rainy,Medium
+Varanasi,Patna,259,Rainy,Light
+Varanasi,Patna,259,Winter,Heavy
+Varanasi,Patna,259,Winter,Medium
+Varanasi,Patna,259,Winter,Light
+Varanasi,Kolkata,683,Hot ,Heavy
+Varanasi,Kolkata,683,Hot ,Medium
+Varanasi,Kolkata,683,Hot ,Light
+Varanasi,Kolkata,683,Sunny,Heavy
+Varanasi,Kolkata,683,Sunny,Medium
+Varanasi,Kolkata,683,Sunny,Light
+Varanasi,Kolkata,683,Rainy,Heavy
+Varanasi,Kolkata,683,Rainy,Medium
+Varanasi,Kolkata,683,Rainy,Light
+Varanasi,Kolkata,683,Winter,Heavy
+Varanasi,Kolkata,683,Winter,Medium
+Varanasi,Kolkata,683,Winter,Light
+Varanasi,Lucknow,312,Hot ,Heavy
+Varanasi,Lucknow,312,Hot ,Medium
+Varanasi,Lucknow,312,Hot ,Light
+Varanasi,Lucknow,312,Sunny,Heavy
+Varanasi,Lucknow,312,Sunny,Medium
+Varanasi,Lucknow,312,Sunny,Light
+Varanasi,Lucknow,312,Rainy,Heavy
+Varanasi,Lucknow,312,Rainy,Medium
+Varanasi,Lucknow,312,Rainy,Light
+Varanasi,Lucknow,312,Winter,Heavy
+Varanasi,Lucknow,312,Winter,Medium
+Varanasi,Lucknow,312,Winter,Light
+Vishakhapatnam,Bhubaneswar,441,Hot ,Heavy
+Vishakhapatnam,Bhubaneswar,441,Hot ,Medium
+Vishakhapatnam,Bhubaneswar,441,Hot ,Light
+Vishakhapatnam,Bhubaneswar,441,Sunny,Heavy
+Vishakhapatnam,Bhubaneswar,441,Sunny,Medium
+Vishakhapatnam,Bhubaneswar,441,Sunny,Light
+Vishakhapatnam,Bhubaneswar,441,Rainy,Heavy
+Vishakhapatnam,Bhubaneswar,441,Rainy,Medium
+Vishakhapatnam,Bhubaneswar,441,Rainy,Light
+Vishakhapatnam,Bhubaneswar,441,Winter,Heavy
+Vishakhapatnam,Bhubaneswar,441,Winter,Medium
+Vishakhapatnam,Bhubaneswar,441,Winter,Light
+Vishakhapatnam,Hyderabad,618,Hot ,Heavy
+Vishakhapatnam,Hyderabad,618,Hot ,Medium
+Vishakhapatnam,Hyderabad,618,Hot ,Light
+Vishakhapatnam,Hyderabad,618,Sunny,Heavy
+Vishakhapatnam,Hyderabad,618,Sunny,Medium
+Vishakhapatnam,Hyderabad,618,Sunny,Light
+Vishakhapatnam,Hyderabad,618,Rainy,Heavy
+Vishakhapatnam,Hyderabad,618,Rainy,Medium
+Vishakhapatnam,Hyderabad,618,Rainy,Light
+Vishakhapatnam,Hyderabad,618,Winter,Heavy
+Vishakhapatnam,Hyderabad,618,Winter,Medium
+Vishakhapatnam,Hyderabad,618,Winter,Light
+Vishakhapatnam,Kolkata,882,Hot ,Heavy
+Vishakhapatnam,Kolkata,882,Hot ,Medium
+Vishakhapatnam,Kolkata,882,Hot ,Light
+Vishakhapatnam,Kolkata,882,Sunny,Heavy
+Vishakhapatnam,Kolkata,882,Sunny,Medium
+Vishakhapatnam,Kolkata,882,Sunny,Light
+Vishakhapatnam,Kolkata,882,Rainy,Heavy
+Vishakhapatnam,Kolkata,882,Rainy,Medium
+Vishakhapatnam,Kolkata,882,Rainy,Light
+Vishakhapatnam,Kolkata,882,Winter,Heavy
+Vishakhapatnam,Kolkata,882,Winter,Medium
+Vishakhapatnam,Kolkata,882,Winter,Light
